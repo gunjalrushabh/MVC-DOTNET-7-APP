@@ -45,4 +45,29 @@ public class DepartmentController : Controller
     
     }
 
+
+
+     public IActionResult Delete(int id)
+    {
+        HRManager hboj=new HRManager();
+        hboj.deleted(id);
+        return RedirectToAction("Index");
+    
+  
+    }
+
+
+    [HttpGet]
+  public IActionResult Update()
+    {
+        return View();
+    }
+    [HttpPost]
+  public IActionResult Update(int id,string name,string location)
+    {
+HRManager hobj=new HRManager();
+hobj.update(id,name,location);
+ return RedirectToAction("Index");
+    }
+
 }

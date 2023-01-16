@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\new\\Ecommerce\\BLL\\BLL.csproj": {}
+    "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\BLL\\BLL.csproj": {}
   },
   "projects": {
-    "E:\\new\\Ecommerce\\BLL\\BLL.csproj": {
+    "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\new\\Ecommerce\\BLL\\BLL.csproj",
+        "projectUniqueName": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "E:\\new\\Ecommerce\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\RUSHABH GUNJAL\\.nuget\\packages\\",
-        "outputPath": "E:\\new\\Ecommerce\\BLL\\obj\\",
+        "projectPath": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\BLL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\RUSHABH GUNJAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,18 +22,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\new\\Ecommerce\\BOL\\BOL.csproj": {
-                "projectPath": "E:\\new\\Ecommerce\\BOL\\BOL.csproj"
+              "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\BOL\\BOL.csproj": {
+                "projectPath": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\BOL\\BOL.csproj"
               },
-              "E:\\new\\Ecommerce\\DAL\\DAL.csproj": {
-                "projectPath": "E:\\new\\Ecommerce\\DAL\\DAL.csproj"
+              "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\DAL\\DAL.csproj": {
+                "projectPath": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\DAL\\DAL.csproj"
               }
             }
           }
@@ -67,25 +62,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\new\\Ecommerce\\BOL\\BOL.csproj": {
+    "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\BOL\\BOL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\new\\Ecommerce\\BOL\\BOL.csproj",
+        "projectUniqueName": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\BOL\\BOL.csproj",
         "projectName": "BOL",
-        "projectPath": "E:\\new\\Ecommerce\\BOL\\BOL.csproj",
-        "packagesPath": "C:\\Users\\RUSHABH GUNJAL\\.nuget\\packages\\",
-        "outputPath": "E:\\new\\Ecommerce\\BOL\\obj\\",
+        "projectPath": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\BOL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\RUSHABH GUNJAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,7 +84,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -127,25 +117,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\new\\Ecommerce\\DAL\\DAL.csproj": {
+    "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\new\\Ecommerce\\DAL\\DAL.csproj",
+        "projectUniqueName": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "E:\\new\\Ecommerce\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\RUSHABH GUNJAL\\.nuget\\packages\\",
-        "outputPath": "E:\\new\\Ecommerce\\DAL\\obj\\",
+        "projectPath": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\DAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\RUSHABH GUNJAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -153,15 +139,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\new\\Ecommerce\\BOL\\BOL.csproj": {
-                "projectPath": "E:\\new\\Ecommerce\\BOL\\BOL.csproj"
+              "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\BOL\\BOL.csproj": {
+                "projectPath": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\BOL\\BOL.csproj"
               }
             }
           }
@@ -197,7 +182,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

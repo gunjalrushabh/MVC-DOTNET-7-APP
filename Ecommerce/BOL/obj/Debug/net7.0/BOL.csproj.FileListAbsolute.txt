@@ -10,3 +10,15 @@ E:\new\Ecommerce\BOL\obj\Debug\net7.0\BOL.dll
 E:\new\Ecommerce\BOL\obj\Debug\net7.0\refint\BOL.dll
 E:\new\Ecommerce\BOL\obj\Debug\net7.0\BOL.pdb
 E:\new\Ecommerce\BOL\obj\Debug\net7.0\ref\BOL.dll
+G:\mvc\MVC-DOTNET-7-APP\Ecommerce\BOL\bin\Debug\net7.0\BOL.deps.json
+G:\mvc\MVC-DOTNET-7-APP\Ecommerce\BOL\bin\Debug\net7.0\BOL.dll
+G:\mvc\MVC-DOTNET-7-APP\Ecommerce\BOL\bin\Debug\net7.0\BOL.pdb
+G:\mvc\MVC-DOTNET-7-APP\Ecommerce\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+G:\mvc\MVC-DOTNET-7-APP\Ecommerce\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+G:\mvc\MVC-DOTNET-7-APP\Ecommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+G:\mvc\MVC-DOTNET-7-APP\Ecommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+G:\mvc\MVC-DOTNET-7-APP\Ecommerce\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+G:\mvc\MVC-DOTNET-7-APP\Ecommerce\BOL\obj\Debug\net7.0\BOL.dll
+G:\mvc\MVC-DOTNET-7-APP\Ecommerce\BOL\obj\Debug\net7.0\refint\BOL.dll
+G:\mvc\MVC-DOTNET-7-APP\Ecommerce\BOL\obj\Debug\net7.0\BOL.pdb
+G:\mvc\MVC-DOTNET-7-APP\Ecommerce\BOL\obj\Debug\net7.0\ref\BOL.dll

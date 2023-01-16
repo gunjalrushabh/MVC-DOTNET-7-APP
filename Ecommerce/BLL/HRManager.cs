@@ -15,4 +15,13 @@ public bool insert(int id,string name,string location)
     return DBmanager.Insert(id,name,location);
 } 
 
+public void deleted(int id)
+{
+   DBmanager.Deletedb(id);
+}
+
+public void update(int id,string name,string location)
+{
+   DBmanager.update(id,name,location);
+}
 }

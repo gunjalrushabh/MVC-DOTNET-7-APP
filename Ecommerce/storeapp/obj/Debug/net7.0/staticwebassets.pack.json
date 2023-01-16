@@ -1,247 +1,247 @@
 {
   "Files": [
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\storeapp.bundle.scp.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\storeapp.bundle.scp.css",
       "PackagePath": "staticwebassets\\storeapp.bundle.scp.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\css\\site.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\favicon.ico",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\js\\site.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\new\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "G:\\mvc\\MVC-DOTNET-7-APP\\Ecommerce\\storeapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
