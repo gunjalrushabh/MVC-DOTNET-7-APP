@@ -1,0 +1,17 @@
+E:\new\Ecommerce\BLL\bin\Debug\net7.0\BLL.deps.json
+E:\new\Ecommerce\BLL\bin\Debug\net7.0\BLL.dll
+E:\new\Ecommerce\BLL\bin\Debug\net7.0\BLL.pdb
+E:\new\Ecommerce\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+E:\new\Ecommerce\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\new\Ecommerce\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+E:\new\Ecommerce\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+E:\new\Ecommerce\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+E:\new\Ecommerce\BLL\obj\Debug\net7.0\BLL.dll
+E:\new\Ecommerce\BLL\obj\Debug\net7.0\refint\BLL.dll
+E:\new\Ecommerce\BLL\obj\Debug\net7.0\BLL.pdb
+E:\new\Ecommerce\BLL\obj\Debug\net7.0\ref\BLL.dll
+E:\new\Ecommerce\BLL\bin\Debug\net7.0\BOL.dll
+E:\new\Ecommerce\BLL\bin\Debug\net7.0\DAL.dll
+E:\new\Ecommerce\BLL\bin\Debug\net7.0\DAL.pdb
+E:\new\Ecommerce\BLL\bin\Debug\net7.0\BOL.pdb
+E:\new\Ecommerce\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete

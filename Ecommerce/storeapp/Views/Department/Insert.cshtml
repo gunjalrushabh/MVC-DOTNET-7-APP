@@ -1,0 +1,12 @@
+@using BOL;
+
+@{
+    ViewData["Title"] = "Department insert Page";
+}
+<h1>Inserting Departments</h1>
+<form action="/Department/Insert" method ="post">
+id<input type="text" name="id" id="id"> <br>
+name <input type="text" name="name" id="name"> <br>
+location <input type="text" name="location" id="location"> <br>
+<button type="submit">submit</button>
+</form>

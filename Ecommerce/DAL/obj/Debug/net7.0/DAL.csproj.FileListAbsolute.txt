@@ -1,0 +1,15 @@
+E:\new\Ecommerce\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\new\Ecommerce\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\new\Ecommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\new\Ecommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\new\Ecommerce\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\new\Ecommerce\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\new\Ecommerce\DAL\bin\Debug\net7.0\DAL.dll
+E:\new\Ecommerce\DAL\bin\Debug\net7.0\DAL.pdb
+E:\new\Ecommerce\DAL\bin\Debug\net7.0\BOL.dll
+E:\new\Ecommerce\DAL\bin\Debug\net7.0\BOL.pdb
+E:\new\Ecommerce\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+E:\new\Ecommerce\DAL\obj\Debug\net7.0\DAL.dll
+E:\new\Ecommerce\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\new\Ecommerce\DAL\obj\Debug\net7.0\DAL.pdb
+E:\new\Ecommerce\DAL\obj\Debug\net7.0\ref\DAL.dll

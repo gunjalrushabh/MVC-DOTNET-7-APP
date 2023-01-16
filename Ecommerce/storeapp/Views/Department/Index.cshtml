@@ -1,0 +1,27 @@
+@using BOL;
+
+@{
+    ViewData["Title"] = "DEpartment Index Page";
+}
+
+
+@{
+    List<Department> list = (List<Department>)ViewData["departments"];
+
+    
+        @foreach (Department dept in list)
+        {
+            <table border="2px">
+                <tr>
+                    <td>@dept.Id</td>
+                    
+                    <td>@dept.Name</td>
+                    
+                    <td>@dept.Location</td>
+                </tr>
+
+                
+            </table>}
+      <a href="/Department/insert"><button type="button">Insert</button></a>
+    
+}

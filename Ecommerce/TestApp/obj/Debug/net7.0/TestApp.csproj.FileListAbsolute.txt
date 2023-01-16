@@ -1,0 +1,15 @@
+E:\new\Ecommerce\TestApp\bin\Debug\net7.0\TestApp.exe
+E:\new\Ecommerce\TestApp\bin\Debug\net7.0\TestApp.deps.json
+E:\new\Ecommerce\TestApp\bin\Debug\net7.0\TestApp.runtimeconfig.json
+E:\new\Ecommerce\TestApp\bin\Debug\net7.0\TestApp.dll
+E:\new\Ecommerce\TestApp\bin\Debug\net7.0\TestApp.pdb
+E:\new\Ecommerce\TestApp\obj\Debug\net7.0\TestApp.csproj.AssemblyReference.cache
+E:\new\Ecommerce\TestApp\obj\Debug\net7.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\new\Ecommerce\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfoInputs.cache
+E:\new\Ecommerce\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfo.cs
+E:\new\Ecommerce\TestApp\obj\Debug\net7.0\TestApp.csproj.CoreCompileInputs.cache
+E:\new\Ecommerce\TestApp\obj\Debug\net7.0\TestApp.dll
+E:\new\Ecommerce\TestApp\obj\Debug\net7.0\refint\TestApp.dll
+E:\new\Ecommerce\TestApp\obj\Debug\net7.0\TestApp.pdb
+E:\new\Ecommerce\TestApp\obj\Debug\net7.0\TestApp.genruntimeconfig.cache
+E:\new\Ecommerce\TestApp\obj\Debug\net7.0\ref\TestApp.dll
