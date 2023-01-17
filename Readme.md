@@ -1,9 +1,9 @@
-#### MVC APP DOTNET 7 CRUD OPERATION
+# MVC APP DOTNET 7 CRUD OPERATION
 ## VS CODE IDE
 
 ## How To Start : I will Make it Simpler and Easy to Understand 
-# WE need Folder Perfect Folder Structure So we can in future we can Add DATA easily
-#Loosly Coupled Highly Cohesive Archetecture
+# WE need Perfect Folder Structure So we can in future we can Add DATA easily
+#Loose Coupling and High cohessive Principle
 <p> mkdir college <br>
 cd college <br>
 college> dotnet new sln -> college.sln <br> <br>
