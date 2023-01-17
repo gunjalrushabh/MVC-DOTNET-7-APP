@@ -3,7 +3,7 @@
 
 ## How To Start : I will Make it Simpler and Easy to Understand 
 # WE need Perfect Folder Structure So we can in future we can Add DATA easily
-#Loose Coupling and High cohessive Principle
+# Loose Coupling and High cohessive Principle
 <p> mkdir college <br>
 cd college <br>
 college> dotnet new sln -> college.sln <br> <br>
