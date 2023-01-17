@@ -1,4 +1,7 @@
 #### MVC APP DOTNET 7 CRUD OPERATION
+## VS CODE IDE
+
+## How To Start : I will Make it Simpler and Easy to Understand 
 <p> mkdir college <br>
 cd college <br> <br> <br>
 college> dotnet new sln -> college.sln <br> <br>
