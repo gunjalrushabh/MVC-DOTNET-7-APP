@@ -2,8 +2,10 @@
 ## VS CODE IDE
 
 ## How To Start : I will Make it Simpler and Easy to Understand 
+# WE need Folder Perfect Folder Structure So we can in future we can Add DATA easily
+#Loosly Coupled Highly Cohesive Archetecture
 <p> mkdir college <br>
-cd college <br> <br> <br>
+cd college <br>
 college> dotnet new sln -> college.sln <br> <br>
 dotnet new mvc -o iacsdApp <br>
 dotnet add classlib -o BOL  <br>
